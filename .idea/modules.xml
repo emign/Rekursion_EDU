@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fakultät/Rekursion.Rekursion-Fakultät.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rekursion/Fibonacci/Rekursion.Rekursion-Fibonacci.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursion.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursion.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursion.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursion.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Rekursion.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Rekursion.util.test.iml" />
+    </modules>
+  </component>
+</project>

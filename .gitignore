@@ -1,0 +1,5 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/Rekursion/Fakultät/build/
+/Rekursion/Fibonacci/build/
